@@ -18,6 +18,10 @@ It based on fasthttp
 postgres, mysql 비교
 https://techblog.woowahan.com/6550/
 
+#### SQL Editor
+- beekeeper studio https://www.beekeeperstudio.io
+  - mysql, postgres, sqlite, sql server 등을 지원하며 sql쿼리를 작성하거나 데이터를 볼 수 있음.
+
 #### ORM
 golang에서 orm은 다른 언어에서 orm보다 기능적과 사용성 측면에서 부실하다과 느낄 수 있음
 
